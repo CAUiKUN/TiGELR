@@ -1,33 +1,9 @@
-# HiST: Histological Image Reconstruct Tumor Spatial Transcriptomics via MultiScale Fusion Deep Learning
+# A spatially defined glial-tip cell niche around tumor boundary promotes mesenchymal tumor states and immune exclusion in microsatellite-stability colorectal cancer
 
----
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-  - [Method 1: Docker](#method1-docker-image)
-  - [Method 2: Conda environment.yml](#method2-use-environment-file-to-setup)
-  - [Method 3: Manual installation](#method3-follow-the-instructions-to-config-environment)
-- [Quick Start: Run Demo](#run-demo)
-  - [1. Download demo data](#1-download-demo-data)
-  - [2. Run demo](#2-run-demo)
-  - [3. Check output results](#3-check-the-results)
-- [HiST Tutorial](#hist-tutorial)
-  - [0. Prepare your own data](#0-prepare-data)
-  - [1. Preprocess module](#1-preprocess-module)
-  - [2. Prediction module](#2-prediction-module)
-  - [3. Application module](#3-application-module)
-    - [A. Survival model](#a-survival-model)
-    - [B. Immunotherapy response model](#b-immunotherapy-response-model)
-- [Credits and Acknowledgments](#credits-and-acknowledgments)
-- [License](#license)
-- [Citation](#citation)
-
----
 
 ## Introduction
-<img src="./img/HiST%20architecture.jpg" width = "570" height = "546" alt="HiST Architecture" align=center />
+<img src=".TiGELR.jpg" width = "570" height = "546" alt="HiST Architecture" align=center />
 
 Spatial transcriptomics (ST) offers valuable insights into the tumor microenvironment by integrating molecular features with spatial context, but its clinical diagnostic application is limited due to its high cost. 
 

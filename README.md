@@ -11,7 +11,7 @@ We applied TiGELR to classify MSI/MSS status using untreated CosMx, scRNA-seq, a
 ## Citation
 (Unpublished now)
 ```
-@article{HiST,
+@article{TiGELR,
     title={A spatially defined glial-tip cell niche around tumor boundary promotes mesenchymal tumor states and immune exclusion in microsatellite-stability colorectal cancer},
     author={Dong Zhang#, Huifang Chen, Liang Gu, Yanhua Du, Jing Sun*, Junke Zheng*, Youqiong Ye*},
     journal={XX},

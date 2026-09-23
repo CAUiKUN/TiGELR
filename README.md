@@ -1,4 +1,4 @@
-# A spatially defined glial-tip cell niche around tumor boundary promotes mesenchymal tumor states and immune exclusion in microsatellite-stability colorectal cancer
+# Mesenchymal Tumors Feature a Spatially Defined Glial-Tip Cell Niche Around the Tumor Boundary in Microsatellite-Stable Colorectal Cancer
 
 
 ## Introduction
@@ -9,14 +9,13 @@ We applied TiGELR to classify MSI/MSS status using untreated CosMx, scRNA-seq, a
 
 
 ## Citation
-(Unpublished now)
 ```
 @article{TiGELR,
-    title={A spatially defined glial-tip cell niche around tumor boundary promotes mesenchymal tumor states and immune exclusion in microsatellite-stability colorectal cancer},
-    author={Dong Zhang#, Huifang Chen, Liang Gu, Yanhua Du, Jing Sun*, Junke Zheng*, Youqiong Ye*},
-    journal={XX},
-    year={2025},
-    doi={xx}
+    title={Mesenchymal Tumors Feature a Spatially Defined Glial-Tip Cell Niche Around the Tumor Boundary in Microsatellite-Stable Colorectal Cancer},
+    author={Dong Zhang#, Huifang Chen#, Liang Gu#, Xinyu Ding, Yi Yang, Xinyi Tan, Bing Su*, Jing Sun*, Youqiong Ye*},
+    journal={Cancer Research},
+    year={2026},
+    doi={10.1158/0008-5472}
 }
 
 ```
